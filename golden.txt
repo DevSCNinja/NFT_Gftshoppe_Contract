@@ -1,0 +1,3 @@
+truffle compile
+truffle migrate --network bsctestnet
+truffle run verify SimpleStorage --network bsctestnet
